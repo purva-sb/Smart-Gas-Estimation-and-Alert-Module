@@ -106,6 +106,16 @@ The system monitors gas levels using MQ-2/MQ-6 sensors. It processes sensor read
 Add photographs of the actual hardware setup, sensor connections, and circuit diagram here.
 
 
+### Project Hardware Setup
+<img src="github_1.jpeg" width="500">
+
+### Circuit and Connections
+<img src="github_2.jpeg%20.jpeg" width="500">
+
+### Project Demonstration
+<img src="github_3.jpeg" width="500">
+
+
 ## Conclusion
 
 This project demonstrates the integration of embedded systems, gas sensors, and microcontroller-based monitoring for gas-level detection and safety alerts. It provides a foundation for developing improved gas monitoring solutions with real-time detection and alert mechanisms.
